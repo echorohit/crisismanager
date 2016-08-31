@@ -1,2 +1,2 @@
-# crisismanager
-Demo Prjec
+# Crisis Manager
+Demo Project
